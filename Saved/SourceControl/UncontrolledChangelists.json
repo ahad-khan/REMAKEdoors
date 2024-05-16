@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal Projects/REMAKEdoors/REMAKEdoors/Content/Blueprints/BP_Door.uasset",
+				"C:/Unreal Projects/REMAKEdoors/REMAKEdoors/Content/Blueprints/BP_Interact.uasset",
+				"C:/Unreal Projects/REMAKEdoors/REMAKEdoors/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Unreal Projects/REMAKEdoors/REMAKEdoors/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Unreal Projects/REMAKEdoors/REMAKEdoors/Content/Meshes/Door_fixedNormals_v2_Basic_Door.uasset",
+				"C:/Unreal Projects/REMAKEdoors/REMAKEdoors/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ET/6TDNK1TA175TIGJ661Y4UW.uasset",
+				"C:/Unreal Projects/REMAKEdoors/REMAKEdoors/Content/Widgets/WB_Interact.uasset",
+				"C:/Unreal Projects/REMAKEdoors/REMAKEdoors/Content/Meshes/Door_fixedNormals_v2_Fancy_Door.uasset",
+				"C:/Unreal Projects/REMAKEdoors/REMAKEdoors/Content/Meshes/Door_fixedNormals_v2_Reinforced_Door.uasset",
+				"C:/Unreal Projects/REMAKEdoors/REMAKEdoors/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
 				"C:/Unreal Projects/REMAKEdoors/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Unreal Projects/REMAKEdoors/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
